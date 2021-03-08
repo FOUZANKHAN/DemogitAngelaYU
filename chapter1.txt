@@ -1,0 +1,3 @@
+GThis file shall be creater for learning thinngs on git
+
+lets see how can I use this file so far
